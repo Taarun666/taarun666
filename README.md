@@ -3,4 +3,4 @@
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
 My koi is redrawn every night from my GitHub activity.
-It's shown at 256px, its native size, and its body color is white.
+It grows with each commit I make, and its color is influenced by the programming languages I use.
