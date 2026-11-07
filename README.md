@@ -2,4 +2,5 @@
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
-My koi is redrawn every night from my GitHub activity
+My koi is redrawn every night from my GitHub activity.
+It's shown at 256px, its native size, and its body color is white.
