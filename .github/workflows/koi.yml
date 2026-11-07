@@ -18,14 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: yalongwastaken/git-koi@v1
+      - uses: taarun666/Taarun-Koi@v1
         with:
-          body: white
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
         run: |
-          git add koi/koi.gif
+          git add koi/koi.gif koi/preview.html
           if git diff --cached --quiet; then
             echo "The koi is unchanged; nothing to commit."
             exit 0
