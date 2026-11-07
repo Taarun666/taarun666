@@ -1,4 +1,4 @@
-# Hi, I'm Taarun
+# Hi, I'm Taarun and this below is my Koi 
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
